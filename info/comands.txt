@@ -3,4 +3,4 @@
 2 - npm run dev
 
 /*-------- Libs -------------*/
-1 - 
+1 - npm i react-icons
