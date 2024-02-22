@@ -4,3 +4,4 @@
 
 /*-------- Libs -------------*/
 1 - npm i react-icons
+2 - npm i next-themes
