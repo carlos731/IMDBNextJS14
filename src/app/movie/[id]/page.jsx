@@ -7,7 +7,6 @@ export default async function MoviePage({ params }) {
   );
 
   const movie = await res.json();
-  //console.log(movie);
 
   return (
     <div className='w-full'>
